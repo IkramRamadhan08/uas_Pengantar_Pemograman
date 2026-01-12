@@ -1,6 +1,6 @@
 # Pertemuan 6
 ## Tugas Pengantar Pemograman 
-Ini adalah code program UAS mata kuliah pengantar pemoraman dari ikram ramadhan dengan dosen pengampu bapak Agung Nugroho, S.Kom., M.Kom
+Ini adalah code program UAS mata kuliah pengantar pemograman dari ikram ramadhan dengan dosen pengampu bapak Agung Nugroho, S.Kom., M.Kom
 
 ````shell
 Nama   : Ikram Ramadhan
